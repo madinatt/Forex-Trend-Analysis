@@ -1,4 +1,4 @@
-#Yahoo Finance Forex Trend Analysis (EUR/JPY) - 2003 to 2023
+### Yahoo Finance Forex Trend Analysis (EUR/JPY) - 2003 to 2023
 
 ## Overview
 
