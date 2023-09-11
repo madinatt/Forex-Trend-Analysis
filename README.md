@@ -1,8 +1,8 @@
-Y# Yahoo Finance Forex Trend Analysis (EUR/JPY) - 2003 to 2023
+#Yahoo Finance Forex Trend Analysis (EUR/JPY) - 2003 to 2023
 
 ## Overview
 
-This project involves a comprehensive analysis of historical exchange rate trends between the Euro (EUR) and Japanese Yen (JPY) from 2003 to 2023. The analysis incorporates regression machine learning algorithms to model and predict future exchange rate movements.
+This project involves a comprehensive analysis of historical exchange rate trends between the Euro (EUR) and Japanese Yen (JPY) from 2013 to 2023. The analysis incorporates regression machine learning algorithms to model and predict future exchange rate movements.
 
 ### Table of Contents
 
@@ -15,7 +15,7 @@ This project involves a comprehensive analysis of historical exchange rate trend
 
 ## Data Source
 
-The historical forex data used in this analysis was obtained from Yahoo Finance, a trusted source for financial market data. The dataset comprises daily exchange rate records for the EUR/JPY currency pair, covering a period of two decades, from January 1, 2003, to December 31, 2023.
+The historical forex data used in this analysis was obtained from Yahoo Finance, a trusted source for financial market data. The dataset comprises daily exchange rate records for the EUR/JPY currency pair, covering a period of two decades, from September 2013, to September 2023.
 
 ## Project Description
 
