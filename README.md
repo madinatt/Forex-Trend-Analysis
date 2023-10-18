@@ -15,7 +15,7 @@ This project involves a comprehensive analysis of historical exchange rate trend
 
 ## Data Source
 
-The historical forex data used in this analysis was obtained from Yahoo Finance, a trusted source for financial market data. The dataset comprises daily exchange rate records for the EUR/JPY currency pair, covering a period of two decades, from September 2013, to September 2023.
+The historical forex data used in this analysis was obtained from Yahoo Finance, a trusted source for financial market data. The dataset comprises daily exchange rate records for the EUR/JPY currency pair, covering a period of two decades, from September 2013 to September 2023.
 
 ## Project Description
 
